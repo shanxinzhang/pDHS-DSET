@@ -1,2 +1,2 @@
 # DHS-DSET
-Prediction of DNase I Hypersensetive sites using DS Evidence Theory
+Prediction of DNase I Hypersensetive sites in Plant Genome by Using DS Evidence Theory
